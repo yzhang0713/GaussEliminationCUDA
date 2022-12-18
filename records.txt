@@ -1,0 +1,16 @@
+Size 1024
+Time taken to process Gauss Elimination on CPU: 1 seconds 61 milliseconds.
+Time taken to process Gauss Elimination on GPU: 2 seconds 56 milliseconds.
+Ratio: 1.937794533459001
+Size 2048
+Time taken to process Gauss Elimination on CPU: 9 seconds 545 milliseconds.
+Time taken to process Gauss Elimination on GPU: 14 seconds 31 milliseconds.
+Ratio: 1.4699842849659508
+Size 4096
+Time taken to process Gauss Elimination on CPU: 85 seconds 117 milliseconds.
+Time taken to process Gauss Elimination on GPU: 97 seconds 349 milliseconds.
+Ratio: 1.1437080724179658
+Size 8192
+Time taken to process Gauss Elimination on CPU: 724 seconds 403 milliseconds.
+Time taken to process Gauss Elimination on GPU: 789 seconds 53 milliseconds.
+Ratio: 1.0892459031782034
